@@ -25,4 +25,15 @@ A simple shell script for Termux that displays a toast notification showing the 
    git clone https://github.com/yashiruchamika/Termux-RAM-Toast.git
    cd Termux-RAM-Toast/
    bash ram-tost.sh
+
+## Screenshots
+
+Here are some screenshots of the Termux RAM Toast script in action:
+
+![Result Toast Notification](RAMinfo1.jpg)
+*Toast notification showing RAM usage.*
+
+![Result Toast Notification](RAMinfo2.jpg)
+*Another view of the script in action.*
+
    
